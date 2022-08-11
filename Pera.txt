@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fruta 3
+=======
+verde , rica
+>>>>>>> 973f146aa676a5cdf76c908303940ad73f4ef97a
